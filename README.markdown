@@ -1,4 +1,4 @@
-Test Project
+Test Project (v0.1)
 ------------
 
 This is a test project for trying out GitHub features.
