@@ -10,3 +10,5 @@ Line 5
 Line 6
 
 Ready for release now!
+
+This is a forked line.
